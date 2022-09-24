@@ -129,7 +129,7 @@ img {
 
 /* -------------------arrow right for slider-------------- */
 .arrow-page-block::after {
-  content: url('/icon-right.svg');
+  content: url('../icon-right.svg');
   padding-left: 40px;
   display: flex;
   align-items: center;
