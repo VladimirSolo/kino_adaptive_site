@@ -118,7 +118,6 @@ img {
 
 /* -------------------main page---------------------- */
 .page {
-  padding-top: 52px;
   background: #000000;
   padding-top: 132px;
 }
@@ -206,7 +205,6 @@ img {
     display: none;
   }
 
-  .header__logo {}
 
   .header__container {
     height: 60px;
